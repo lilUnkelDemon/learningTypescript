@@ -1,0 +1,11 @@
+{
+  "name": "learntypescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "file_ts.js",
+  "scripts": {
+    "watch": "tsc -w"
+  },
+  "author": "",
+  "license": "ISC"
+}
